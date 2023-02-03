@@ -8,9 +8,10 @@ const Contact = () => {
           Contact Me
         </h2>
         <p>
-          I am currently open for a fulltime Frontend Developer role. If you
-          want to discuss about that feel free to email me or call me.
-        </p>
+          I am currently a student at the universty of managerment and technology. If you
+          want to discuss about anything feel free to email me  or call me.
+          <a href="mailto:mohamedsalamkamara10@gmail.com ">email</a>
+        </p> 
 
         <p className="py-2">
           <span className="font-bold">Email:</span> coderamrin@gmail.com
